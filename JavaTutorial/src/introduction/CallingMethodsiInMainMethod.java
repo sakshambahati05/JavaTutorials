@@ -10,7 +10,7 @@ public class CallingMethodsiInMainMethod {
 		display(d);
 
 	}
-
+	//This is a test comment for git incorporation
 	public static double multiply(double a, double b) {
 
 		double c = a * b;
